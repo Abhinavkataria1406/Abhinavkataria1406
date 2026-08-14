@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi, I'm Abhinav Kataria 👋</h1>
 <h3 align="center">Data Analyst | Turning raw data into decisions</h3>
 
