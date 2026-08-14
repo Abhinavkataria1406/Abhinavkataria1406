@@ -21,10 +21,10 @@
 **[Credit Risk Analysis](https://github.com/Abhinavkataria1406/Credit-Risk-Analysis)**
 End-to-end analysis of loan applicant data to identify key drivers of credit risk — data cleaning, SQL-based aggregation, and dashboarding to surface default patterns for lending decisions.
 
-**[Customer Behavior Analysis](https://github.com/Abhinavkataria1406)**
+**[Customer Behavior Analysis](https://github.com/Abhinavkataria1406/Customer-behaviour-analysis)**
 Segmented and analyzed customer purchasing patterns to uncover retention and revenue trends, translating findings into stakeholder-ready visuals.
 
-**[Telecom Customer Churn Analysis](https://github.com/Abhinavkataria1406)**
+**[Telecom Customer Churn Analysis](https://github.com/Abhinavkataria1406/Telecom-churn-prediction-and-analysis)**
 Explored churn drivers in a telecom customer base through exploratory data analysis, highlighting the segments most at risk of leaving.
 
 ---
