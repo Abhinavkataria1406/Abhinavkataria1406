@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Turning raw data into decisions</h3>
 
 <p align="center">
-  CSE Graduate From PEC Chandigarh (Batch of 2026) · Actively looking for Data Analyst / Business Analyst / MIS Analyst roles
+  CSE Graduate From PEC Chandigarh (Batch of 2026) .
 </p>
 
 ---
